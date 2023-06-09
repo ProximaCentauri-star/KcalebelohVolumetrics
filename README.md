@@ -13,4 +13,6 @@ Put the volumetric.cfg into the EVE folder inside of the KcalbelohSystem mod fol
 
 - All credits goes to blackrack, I do not own the mod, I just make configs
 
+- Credits to Jason Kerman for making the Kcalbeloh System mod
+
 - Directive help from chaos113
