@@ -3,9 +3,9 @@ Volumetric clouds configs for the KSP Kcalbeloh mod
 
 # INSTALLATION
 
-Put the volumetric.cfg into the EVE folder inside of the KcalbelohSystem mod folder
+Put the KcalbelohSystem folder inside the .zip into gamedata to merge them and replace content if asked.
 
---> GameData\KcalbelohSystem\EVE
+--> GameData
 
 - You will need the EVE volumetric mod available on blackrack's patreon: https://www.patreon.com/blackrack/posts
 
